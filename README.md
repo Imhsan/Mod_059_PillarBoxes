@@ -1,7 +1,7 @@
 A pillarbox and rule of thirds grid overlay modification for Session: Skate Sim\
 Requires the game to be patched with Illusory unreal mod unlocker and Chuy's blueprint loader.
 
-Usage: Hold the right shoulder button or press Ctrl+B
+Usage: Hold the top button and the right shoulder button or press Ctrl+B
 
 Project source shared in the hope that it will be useful to others.\
 /Imhsan
